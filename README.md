@@ -1,4 +1,4 @@
 # Snowman
-Draws a snowman and snow woman using python turtle turtle.
-h
+Draws a snowman and snow woman using python turtle.
+hd
 
